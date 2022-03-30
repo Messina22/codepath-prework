@@ -39,7 +39,11 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![http://g.recordit.co/EARyaEtyYD.gif](http://g.recordit.co/EARyaEtyYD.gif)
+![](http://g.recordit.co/EARyaEtyYD.gif)
+![](http://g.recordit.co/z4T0BIGaLR.gif)
+![](http://g.recordit.co/tWmtfY94tR.gif)
+![]()
+
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
@@ -53,3 +57,24 @@ One question that I have about web development is how do you write code for a we
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 If I had a few more hours to work on the project the first change I would make would be to make the pattern repeat after a short amount of time if the user does not input an answer so the user can see the pattern again if they missed one light in the sequence. A visual change that I would make would make the buttons sectors in a circle so it resembles an actual Simon says game. I would also implement a button which would create a infinite version of the game to allow the user to see what high score the user could achieve.
+
+## Interview Recording URL Link
+
+[My 5-minute Interview Recording](your-link-here)
+
+
+## License
+
+    Copyright Nick Messina
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
